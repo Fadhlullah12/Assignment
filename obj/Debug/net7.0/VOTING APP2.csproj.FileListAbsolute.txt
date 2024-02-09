@@ -1,0 +1,58 @@
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\VOTING APP2.exe
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\VOTING APP2.deps.json
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\VOTING APP2.runtimeconfig.json
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\VOTING APP2.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\VOTING APP2.pdb
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\VOTING APP2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.AssemblyInfo.cs
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.csproj.CopyComplete
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.dll
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\refint\VOTING APP2.dll
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.pdb
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\VOTING APP2.genruntimeconfig.cache
+C:\Users\HP\Desktop\VOTING APP2\obj\Debug\net7.0\ref\VOTING APP2.dll
